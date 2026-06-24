@@ -1,12 +1,12 @@
 const body = document.body;
-body.style.margin = '0';
+body.stye.margin = '0';
 
-// ========== CABEÇALHO ==========
-const cabecalho = document.createElement('h1');
-cabecalho.textContent = 'Criando elementos com JavaScript';
+//'========= CABEÇALHO =========
+const cabecalho = document.createElement ('h1');
+ cabecalho.textcontent= 'criando elementos com javascripT';
 
-cabecalho.style.color = '#ffffff';
-cabecalho.style.fontSize = '40px';
+cabecalho.stye.color = '#ffffff';
+cabecalho.style.fontSize = '40 px';
 cabecalho.style.textAlign = 'center';
 cabecalho.style.display = 'flex';
 cabecalho.style.alignItems = 'center';
